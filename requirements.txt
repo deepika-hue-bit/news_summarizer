@@ -1,0 +1,6 @@
+streamlit 
+newspaper3k 
+torch 
+transformers
+lxml_html_clean
+validators
